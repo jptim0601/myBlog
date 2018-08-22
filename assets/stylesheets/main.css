@@ -88,11 +88,13 @@ table {
 .grid-2-3 {
     border: 1px dashed olivedrab;
     width: 66%;
+    vertical-align: top;
 }
 
 .grid-1-3 {
     border: 1px dashed cornflowerblue;
     width: 33%;
+    vertical-align: top;
 }
 
 /*
